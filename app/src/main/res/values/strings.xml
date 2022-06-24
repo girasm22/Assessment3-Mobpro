@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Limas Segi Empat</string>
+    <string name="limas_segi_empat">Limas Segi Empat</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="panjang_invalid">Panjang tidak boleh kosong</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong</string>
+    <string name="hasil_x">%1$.2f</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Limas Segiempat merupakan sebuah aplikasi Android untuk
+menghitung volume Limas Segiempat sehingga seseorang dapat mengetahui hasil dari Limas Segiempat sesuai perhitungan yang diinput nya</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Volume Limas Segiempat : %1$s cm³</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="hasil_xx">Panjang : %1$.2f - Lebar : %1$.2f - Tinggi : %1$.2f</string>
+    <string name="data_x">Hasil Volume Limas Segiempat : %1$s cm³</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="no_data_available">Tidak ada data</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+    <string name="failed_load_data_api">Gagal memuat data, pastikan anda terkoneksi dengan internet</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data bangun ruang otomatis</string>
+    <string name="notif_title">Ada bangun ruang baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+
+</resources>

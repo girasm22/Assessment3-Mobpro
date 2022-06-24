@@ -1,0 +1,37 @@
+[
+  {
+    "nama": "balok",
+    "ciri": "Mempunyai 12 rusuk, 8 pasang rusuk merupakan sama panjang.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/balok.jpeg" 
+  },
+  {
+    "nama": "bola",
+    "ciri": "Tidak memiliki sudut dan rusuk.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/bola.jpg" 
+  },
+  {
+    "nama": "kubus",
+    "ciri": "Semua sudutnya siku-siku.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/kubus.jpeg" 
+  },
+  {
+    "nama": "limas segilima",
+    "ciri": "memiliki 5 buah sisi yaitu 1 sisi alas berbentuk segiempat dan 4 sisi tegak berbentuk segitiga.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segilima.jpeg" 
+  },
+  {
+    "nama": "limas segitiga",
+    "ciri": "Tidak memiliki diagonal ruang dan sisi.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segitiga.jpeg" 
+  },
+  {
+    "nama": "prisma segitiga",
+    "ciri": "Bentuk alas dan atapnya segitiga.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/prisma-segitiga.jpeg" 
+  },
+  {
+    "nama": "tabung",
+    "ciri": "Tinggi tabung adalah jarak antara alas dengan tutup tabung.",
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/tabung.jpeg" 
+  },
+]
